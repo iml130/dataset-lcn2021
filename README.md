@@ -1,6 +1,6 @@
 # Low-Cost Search in Tree-Structured P2P Overlays: The Null-Balance Benefit
 
-This repository contains the dataset used for the paper [_"Low-Cost Search in Tree-Structured P2P Overlays: The Null-Balance Benefit"_](https://tbd) publish at the [46th IEEE Local Computer Networks (LCN)](https://www.ieeelcn.org).
+This repository contains the dataset used for the paper [_"Low-Cost Search in Tree-Structured P2P Overlays: The Null-Balance Benefit"_](https://doi.org/10.1109/LCN52139.2021.9525004) published at the [46th IEEE Local Computer Networks (LCN)](https://www.ieeelcn.org).
 We refer to the paper for a full explanation of the methodology used for generating the dataset.
  
 ## Reading the dataset
